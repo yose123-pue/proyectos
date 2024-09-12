@@ -29,7 +29,7 @@ nav li
 
 header nav ul
 {
-    background-image: url(imagen\ menu);
+    background-image: url(imagenes/imagen\ menu.png);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
