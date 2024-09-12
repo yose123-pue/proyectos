@@ -1,0 +1,113 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: #81f78b;
+}
+
+header
+{
+    background-color: #279631;
+    height: 60px;
+    width: 99%;
+    margin-left: 0.5%;
+    
+}
+
+nav li
+{
+    display: inline-block;
+    text-align: center;
+    width: 90px;
+}
+
+header nav ul
+{
+    font-size: 20px;
+    list-style: none;
+    background-color: #279631;
+    color: #000000;
+    text-align: center;
+    margin-top: 6px;
+    padding: 20px ;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.buscar
+{
+    display: inline;
+    margin-left: 48%;
+}
+
+input
+{
+    height: 24px;
+    border-radius: 4px;
+    padding-bottom: 1px;
+    padding-left: 4px;
+    outline: none;
+}
+
+section
+{
+    text-align: center;
+    margin: 15px;
+}
+
+h3
+{
+    text-align: center;
+    display: inline-block;
+    flex-direction: row;
+    color: black;
+    width: 20%;
+    font-size: 30px;
+    margin: 15px 15px 10px 25px;
+}
+
+p
+{
+    font-size: 18px;
+    text-align: center;
+    display: inline-block;
+    width: 200px;
+    color: black;
+    margin: 0px 50px 0px 60px;
+}
+
+footer ul
+{
+    display: inline-block;
+    list-style: none;
+    text-align: center;
+    background-color: #279631;
+    color: black;
+    padding: 0.5% 10%;   
+}
+
+footer ul li
+{
+    padding-top: 10px;
+}
+
+footer
+{
+    background-color: #37d444;
+    padding: 20px 50px;
+    width: 99%;
+    margin-left: 0.5%;
+    border: 1px solid;
+    border-radius: 7px;
+}
+
+header nav ul li a
+{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}

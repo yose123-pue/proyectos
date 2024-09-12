@@ -1,0 +1,42 @@
+h2
+{
+    color: yellow;
+    background-color: rgb(122, 115, 43); border: 3px solid;
+    border-radius: 13px; font-family: initial; font-size: 35px; text-align: center;
+}
+
+form
+{
+    border: 2px double;
+    background-color: rgb(58, 224, 100); 
+    color: rgb(0, 0, 0);   
+
+}
+
+body
+{
+    background-color: rgb(122, 115, 43);
+    padding-left: 35%;
+}
+
+input
+{
+    background-color: rgb(124, 255, 97);
+}
+
+h3
+{
+    color: yellow;
+    background-color: rgb(36, 175, 48); border: 2px solid;
+    border-radius: 10px; font-family: initial; font-size: 20px; text-align: center;
+
+}
+
+table
+{
+    border: 100px;
+    
+}
+ 
+
+
